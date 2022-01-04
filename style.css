@@ -23,7 +23,6 @@ h1{
 }
 .half-width img{
     width: 80%;
-    
 
 }
 .link-button{
@@ -44,6 +43,15 @@ h1{
     background-repeat: no-repeat;
     background-position: right ;
     padding-right: 7%;
-    
 
+}
+.experience-item{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+footer{
+    text-align: center;
 }
