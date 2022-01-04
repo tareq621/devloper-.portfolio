@@ -51,6 +51,19 @@ h1{
     margin-left: 5%;
     padding-left: 3%;
     box-shadow: 10px 10px 10px 10px gray;
+    border-left: 10px solid;
+}
+#stuck{
+    border-left: 6px solid;
+    border-image: linear-gradient(red, blue);
+
+    border-image-slice: 1 ;
+}#baby{
+    border-left: 6px solid;
+    border-image: linear-gradient(red, blue);
+
+    border-image-slice: 1 ;
+
 }
 footer{
     text-align: center;
